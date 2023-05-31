@@ -3,7 +3,7 @@ import React from 'react'
 function Main() {
     
   return (
-    <section class="text-gray-600 body-font m-10">
+    <section class="text-gray-600 body-font md:m-10 mx-2 my-4 ">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col">
       <div class="h-1 bg-gray-200 rounded overflow-hidden">
